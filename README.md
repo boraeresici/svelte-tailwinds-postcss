@@ -1,3 +1,5 @@
+Svelte + (TailwindCSS + Postcss) + flowbite components are the base installation made on the informative linkedin post. Installation was made with Svelte-Add.
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
